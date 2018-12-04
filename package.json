@@ -1,0 +1,28 @@
+{
+  "name": "politicalpolls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uta200105/PoliticalPolls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uta200105/PoliticalPolls/issues"
+  },
+  "homepage": "https://github.com/uta200105/PoliticalPolls#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.14",
+    "npm": "^6.4.1",
+    "pusher": "^2.2.0"
+  }
+}
